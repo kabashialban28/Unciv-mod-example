@@ -36,5 +36,56 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+	},
+
+	{
+    "name": "Canterlonian Regency",
+    "leaderName": "Twilight Sparkle",
+    "adjective": ["Canterlonian"],
+    "startBias": ["Plains"],
+    "preferredVictoryType": "Cultural",
+
+    "startIntroPart1": "The future of Equestria rests upon wisdom, friendship, and unity.",
+    "startIntroPart2": "Lead the Canterlonian Regency through troubled times and preserve harmony across the realm.",
+
+    "declaringWar": "I hoped we could resolve this peacefully. You leave me no choice.",
+    "attacked": "Why would you choose violence over friendship?",
+    "defeated": "Even in defeat, harmony will find a way forward.",
+    "introduction": "Greetings. I am Twilight Sparkle, Regent of Canterlot. May our nations prosper together.",
+
+    "neutralHello": "It's always nice to meet somepony new.",
+
+    "hateHello": "Your actions are making cooperation very difficult.",
+
+    "tradeRequest": "Perhaps this exchange can benefit us both.",
+    "denounced": "Your conduct threatens the harmony of the world.",
+    "declaringFriendship": "Friendship is one of the greatest strengths a nation can have.",
+
+    "outerColor": [255, 255, 255],
+    "innerColor": [255, 215, 0],
+
+    "unique": "LEGALISM",
+
+    "cities": [
+        "Canterlot",
+        "Ponyville",
+        "Manehattan",
+        "Fillydelphia",
+        "Baltimare",
+        "Las Pegasus",
+        "Vanhoover",
+        "Appleloosa",
+        "Trottingham",
+        "Cloudsdale",
+        "Hoofington",
+        "Tall Tale",
+        "Whitetail",
+        "Dodge Junction",
+        "Hollow Shades",
+        "Seaddle",
+        "Neighagara Falls",
+        "Maretime Bay",
+        "Sunset",
+        "Goldengate"]
+	},
 ]
